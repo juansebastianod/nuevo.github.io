@@ -1,0 +1,14 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+background-color: cadetblue;
+
+}
+a{
+    text-decoration: none;
+  
+}
+li{
+    display: inline;
+    margin-right: 7px;
+
+}
