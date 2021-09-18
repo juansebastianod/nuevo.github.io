@@ -5,10 +5,12 @@ background-color: cadetblue;
 }
 a{
     text-decoration: none;
-  
+  color: red;
 }
 li{
-    display: inline;
+   
     margin-right: 7px;
+    list-style: none;
+    display: inline;
 
 }
