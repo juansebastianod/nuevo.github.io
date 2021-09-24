@@ -14,3 +14,9 @@ li{
     display: inline;
 
 }
+footer{
+  color: blue;
+  background-color: blueviolet;
+  margin-top: 35%;
+  height: 50px;
+}
